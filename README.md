@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trevor Madara Kayeyia</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate fullstack developer from Kenya</h3>
 
-- 🔭 I’m currently working on [website](www.dcutawala.org)
-
-- 🌱 I’m currently learning **HTML5,CSS3,JAVASCRIPT,REACT,VUE,ANGULAR**
+- 🌱 I’m currently learning **BOTH FRONT AND BACK END TECHNOLOGIES**
 
 - 📫 How to reach me **trevormadarakayeyia@gmail.com**
 
