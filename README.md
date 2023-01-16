@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [website](www.dcutawala.org)
 
-- 🌱 I’m currently learning **React,Vue,MySQL,Typescript**
+- 🌱 I’m currently learning **HTML5,CSS3,JAVASCRIPT,REACT,VUE,ANGULAR**
 
 - 📫 How to reach me **trevormadarakayeyia@gmail.com**
 
