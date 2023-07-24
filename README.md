@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trevor Madara Kayeyia</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
-- 🌱 I’m currently learning **BOTH FRONT AND BACK END TECHNOLOGIES**
+- 🌱 I’m currently learning **RUBY ON RAILS AND PYTHON**
 
 - 📫 How to reach me **trevormadarakayeyia@gmail.com**
 
