@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trevor Madara Kayeyia</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-
-- 🌱 I’m currently learning **PYTHON**
+<h3 align ="center">I am also a Mobile Android App Developer></h3>
 
 - 📫 How to reach me **trevormadarakayeyia@gmail.com**
 
