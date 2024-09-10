@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fastisha-App](https://github.com/Trevor-Kayeyia-Madara/FastishaApp.git)
 
-- 🌱 I’m currently learning **Cybersecurity, Kotlin, Flutter, Laravel,Django**
+- 🌱 I’m currently learning **Cybersecurity, Kotlin, Flutter, Laravel,Django, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://trevor-madara.invodtech.com/](https://trevor-madara.invodtech.com/)
 
