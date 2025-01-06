@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TREVOR MADARA KAYEIA</h1>
 <h3 align="center">A passionate fullstack developer from Kenya I am also a Mobile Android App Developer</h3>
 
-- 🔭 I’m currently working on [Fastisha-App](https://github.com/Trevor-Kayeyia-Madara/FastishaApp.git)
+- 🔭 I’m currently working on [AlertSphere](https://github.com/Trevor-Kayeyia-Madara/FastishaApp.git)
 
 - 🌱 I’m currently learning **Cybersecurity, Kotlin, Flutter, Laravel,Django, NextJS**
 
