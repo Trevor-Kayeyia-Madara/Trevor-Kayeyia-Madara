@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Alertsphere](https://github.https://github.com/Trevor-Kayeyia-Madara/alertspherecom/Trevor-Kayeyia-Madara/FastishaApp.git)
 
-- 🌱 I’m currently learning **Cybersecurity, Kotlin, Flutter, Laravel,Django**
+- 🌱 I’m currently learning **Cybersecurity, Kotlin, Flutter, Laravel,Django, Flask**
 
 - 👨‍💻 All of my projects are available at [https://trevor-madara.invodtech.com/](https://trevor-madara.invodtech.com/)
 
-- 💬 Ask me about **react,vue,ruby on rails, Java**
+- 💬 Ask me about **react,vue,ruby on rails, Java, Javascript, NodeJS**
 
 - 📫 How to reach me **trevormadarakayeyia@gmail.com**
 
