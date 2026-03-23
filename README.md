@@ -1,100 +1,60 @@
-# Hi, I'm Trevor Madara Kayeyia
+<h1 align="center">Trevor Madara Kayeyia</h1>
 
-<p align="left">
-  Full-Stack Software Engineer | Software Consultant | Cybersecurity Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer;Building+SaaS+%26+Business+Systems;Cybersecurity-Minded+Developer" alt="Typing intro" />
 </p>
 
-<p align="left">
-  Nairobi, Kenya<br/>
-  <a href="mailto:trevormadarakayeyia@gmail.com">trevormadarakayeyia@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/trevor-madara">LinkedIn</a> |
-  <a href="https://invodtechltd.com">Invodtech</a> |
-  <a href="https://trevor-madara.invodtechltd.com/">Portfolio</a>
+<p align="center">
+  <a href="mailto:trevormadarakayeyia@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/trevor-madara"><img src="https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://invodtechltd.com"><img src="https://img.shields.io/badge/Invodtech-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Invodtech" /></a>
+  <a href="https://trevor-madara.invodtechltd.com/"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
+<p align="center">Nairobi, Kenya</p>
 
-## About Me
+## About
+- I build fast, secure, user-first web apps and platforms.
+- I like turning rough ideas into clean, scalable products.
+- I focus on SaaS, ERP/CRM workflows, and secure engineering.
 
-I build secure, scalable, and user-focused digital products across web and mobile platforms.  
-My focus is turning business ideas into reliable software through clean architecture, practical execution, and modern engineering practices.
-
-- Building SaaS solutions and business systems
-- Delivering full-stack applications with modern JavaScript and Python ecosystems
-- Integrating cybersecurity thinking into product development
-
----
-
-## Tech Stack
-
-**Languages**  
-JavaScript, TypeScript, Python, Ruby, SQL, Java, Kotlin, Dart, HTML, CSS
-
-**Frameworks & Libraries**  
-React, Next.js, Node.js, Express, Flask, Ruby on Rails, Flutter, NestJS
-
-**Databases & Tools**  
-MongoDB, MySQL, PostgreSQL, SQL Server, Git, GitHub, Sage 200 Evolution
-
-**Core Practices**  
-REST APIs, Responsive UI, Agile/Scrum, CI/CD, ERP Integration, OWASP-Aligned Security
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Trevor-Kayeyia-Madara&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Trevor's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trevor-Kayeyia-Madara&layout=compact&hide_border=true" alt="Top languages" />
+## Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,ruby,java,kotlin,dart,html,css,react,nextjs,nodejs,express,flask,rails,flutter,nestjs,mongodb,mysql,postgres,git,github&perline=11" alt="Tech stack" />
 </p>
 
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=Trevor-Kayeyia-Madara&hide_border=true" alt="GitHub streak" />
+`Also:` SQL Server, Sage 200 Evolution, REST APIs, CI/CD, Agile/Scrum, OWASP
+
+## GitHub
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Trevor-Kayeyia-Madara&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=06b6d4&text_color=334155&bg_color=00000000" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trevor-Kayeyia-Madara&layout=compact&hide_border=true&title_color=0ea5e9&text_color=334155&bg_color=00000000" alt="Top languages" />
 </p>
 
----
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=Trevor-Kayeyia-Madara&hide_border=true&ring=0ea5e9&fire=06b6d4&currStreakLabel=0ea5e9" alt="GitHub streak" />
+</p>
 
-## Featured Projects
-
+## Featured Work
 ### AlertSphere
-Real-time crime reporting and missing person alert platform built for community-to-authority coordination.
+Real-time crime reporting and missing person alerts for faster community-to-authority response.
 
 - Live: https://alertsphere.vercel.app/
 - Code: https://github.com/Trevor-Kayeyia-Madara/alertsphere
 
 ### School Management System
-Role-based platform for Admins, Teachers, and Parents with analytics and secure authentication.
+Role-based platform for admins, teachers, and parents with analytics and secure access control.
 
 - Stack: Flask, React, TypeScript
-- Highlights: JWT auth, role-based access, automated reporting
+- Highlights: JWT auth, role permissions, automated reports
 
-### Hawkeye 11 Corporate Website
-Responsive corporate website with smooth modern UX and integrated communication features.
+### Hawkeye 11 Website
+Corporate website with responsive UX, integrated communication links, and smooth motion.
 
 - Live: https://hawkeye11companylimited.com/
 - Stack: Next.js, Tailwind CSS, Framer Motion
 
----
-
 ## Certifications
-
-- Sage 200 Evolution Certified Consultant (AME) - Sage University (2025)
-- Sage 200 Evolution Business Partner/Consultant Certification - Sage University (2025)
-- Software Engineering Certificate - Moringa School (2023)
-
----
-
-## Currently Focused On
-
-- Building high-impact SaaS products
-- ERP and CRM implementation for business operations
-- Secure-by-design software delivery
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/Trevor-Kayeyia-Madara
-- LinkedIn: https://www.linkedin.com/in/trevor-madara
-- Website: https://invodtechltd.com
-- Portfolio: https://trevor-madara.invodtechltd.com/
+- Sage 200 Evolution Certified Consultant (AME) - 2025
+- Sage 200 Evolution Business Partner/Consultant Certification - 2025
+- Software Engineering Certificate (Moringa School) - 2023
