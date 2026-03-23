@@ -1,7 +1,7 @@
 <h1 align="center">Trevor Madara Kayeyia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer;Building+SaaS+%26+Business+Systems;Cybersecurity-Minded+Developer" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer;SaaS+Builder;Cybersecurity-Minded+Developer" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -11,19 +11,14 @@
   <a href="https://trevor-madara.invodtechltd.com/"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center">Nairobi, Kenya</p>
-
-## About
-- I build fast, secure, user-first web apps and platforms.
-- I like turning rough ideas into clean, scalable products.
-- I focus on SaaS, ERP/CRM workflows, and secure engineering.
+<p align="center">
+  I build fast, secure, user-first products with modern web technologies.
+</p>
 
 ## Stack
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,ruby,java,kotlin,dart,html,css,react,nextjs,nodejs,express,flask,rails,flutter,nestjs,mongodb,mysql,postgres,git,github&perline=11" alt="Tech stack" />
 </p>
-
-`Also:` SQL Server, Sage 200 Evolution, REST APIs, CI/CD, Agile/Scrum, OWASP
 
 ## GitHub
 <p>
@@ -47,14 +42,3 @@ Role-based platform for admins, teachers, and parents with analytics and secure 
 
 - Stack: Flask, React, TypeScript
 - Highlights: JWT auth, role permissions, automated reports
-
-### Hawkeye 11 Website
-Corporate website with responsive UX, integrated communication links, and smooth motion.
-
-- Live: https://hawkeye11companylimited.com/
-- Stack: Next.js, Tailwind CSS, Framer Motion
-
-## Certifications
-- Sage 200 Evolution Certified Consultant (AME) - 2025
-- Sage 200 Evolution Business Partner/Consultant Certification - 2025
-- Software Engineering Certificate (Moringa School) - 2023
